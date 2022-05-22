@@ -6,5 +6,7 @@ The process for the project starts from collecting the data. For analyzing we ne
 
 Once the API was collected the individual xls file was imported to Google Sheets using the import function. Google Sheets is a spreadsheet just like excel and real time data is stored inside this sheet and updated every minute.
 
-#Tools and Services
+
+# Tools and Services
 Tableau Desktop, Google Sheets, USGS API
+
